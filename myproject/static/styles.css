@@ -1,0 +1,16 @@
+body {
+    background-color: yellow;
+
+}
+h1 {
+    color: red;
+}
+.pagination {
+    margin: 20px 0;
+}
+
+.step-links {
+    justify-content: left;
+    list-style-type: none;
+
+}
